@@ -241,6 +241,11 @@ h3.image-text {
   section {
     width: 960px;
   }
+
+  img.profile {
+    margin-bottom: 1rem;
+  }
+
   div.portfolio {
     left: 0;
   }
