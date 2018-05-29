@@ -21,15 +21,15 @@ h2 {
 
 header {
   /* mobile-first width, media queries for larger screens */
-  width: 360px;
+  width: 340px;
   margin: 0 auto;
 }
 
 section {
   background-image: url('../images/dust_scratches.png');
   clear: both;
-  width: 360px;
-  margin: 1.3rem auto;
+  width: 340px;
+  margin: 1.7rem auto;
 }
 
 h1 {
@@ -72,7 +72,7 @@ a.portfolio {
 }
 
 nav {
-  width: 91%;
+  width: 327px;
   margin: 1rem auto;
 }
 
@@ -157,14 +157,14 @@ div.portfolio {
 }
 
 img.game {
-  width: 280px;
+  width: 258px;
 }
 
 h3.image-text {
   position: absolute;
   text-align: center;
   padding: 5px;
-  width: 270px;
+  width: 248px;
   bottom: -45px;
   left: 0;
   background-color: #4aaaa5;
