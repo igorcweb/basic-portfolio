@@ -156,6 +156,10 @@ div.portfolio {
   margin-bottom: 3rem;
 }
 
+div.portfolio:hover {
+  box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.3);
+}
+
 img.game {
   width: 258px;
 }
