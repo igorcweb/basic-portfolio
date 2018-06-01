@@ -151,7 +151,7 @@ button:hover {
 
 div.portfolio {
   display: inline-block;
-  position: relative;
+  height: 12.25rem;
   margin-right: 2rem;
   margin-bottom: 3rem;
   transition: all 0.4s;
@@ -166,11 +166,11 @@ img.game {
 }
 
 h3.image-text {
-  position: absolute;
+  position: relative;
   text-align: center;
   padding: 5px;
   width: 248px;
-  bottom: -45px;
+  bottom: 23px;
   left: 0;
   background-color: #4aaaa5;
   color: #fff;
@@ -188,6 +188,10 @@ h3.image-text {
   }
   nav {
     width: 92%;
+  }
+
+  div.portfolio {
+    height: 18rem;
   }
 
   a.portfolio {
@@ -226,6 +230,10 @@ h3.image-text {
     width: auto;
     float: right;
     margin: 1.4rem 0 0 0;
+  }
+
+  div.portfolio {
+    height: 13.75rem;
   }
   a.portfolio {
     margin: 0 1rem;
