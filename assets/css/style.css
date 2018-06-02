@@ -155,7 +155,7 @@ div.portfolio {
   height: 12.25rem;
   margin-right: 2rem;
   margin-bottom: 3rem;
-  transition: all 0.4s;
+  transition: 0.4s;
 }
 
 div.portfolio:hover {
