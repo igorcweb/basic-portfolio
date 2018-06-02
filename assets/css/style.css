@@ -20,7 +20,7 @@ h2 {
 }
 
 header {
-  /* mobile-first width, media queries for larger screens */
+  /* mobile-first width, media queries are used for larger screens */
   width: 340px;
   margin: 0 auto;
 }
@@ -103,6 +103,7 @@ div.wrapper {
   flex: 1 0 auto;
   /* background-color: #ededed; */
   background-image: url('../images/pattern.jpg');
+  background-attachment: fixed;
   border-top: 2px solid #ccc;
   background-repeat: no-repeat;
   background-size: cover;
