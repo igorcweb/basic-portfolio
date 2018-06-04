@@ -43,6 +43,9 @@ h1 {
 
 h2 {
   font-size: 1.8rem;
+  color: #4aaaa5;
+  padding: 1rem 0;
+  border-bottom: 2px solid #ccc;
 }
 
 p a {
@@ -86,17 +89,10 @@ div.content p {
   line-height: 1.5rem;
 }
 
-h2 {
-  color: #4aaaa5;
-  padding: 1rem 0;
-  border-bottom: 2px solid #ccc;
-}
-
 img.profile {
   width: 130px;
   float: left;
   margin-right: 1.4rem;
-  /* margin-bottom: 1rem; */
 }
 
 div.wrapper {
