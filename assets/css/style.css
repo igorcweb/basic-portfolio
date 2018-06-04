@@ -224,6 +224,7 @@ h3.image-text {
   section {
     width: 740px;
   }
+
   h1 {
     display: inline-block;
   }
@@ -253,6 +254,10 @@ h3.image-text {
   header,
   section {
     width: 960px;
+  }
+
+  section {
+    margin: 3rem auto;
   }
 
   img.profile {
